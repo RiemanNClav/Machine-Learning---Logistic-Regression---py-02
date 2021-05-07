@@ -1,5 +1,5 @@
 # Machine-Learning---Logistic-Regression---py-02
-application of supervised algorithm
+
 REGRESIÓN LOGISTICA PARA PREDICCIÓNES BANCARIAS
 Información del conjunto de datos:
 
